@@ -32,10 +32,12 @@ This project aims to solve that by delivering a fast, intuitive, and visually st
 - Prioritised the most relevant F1 metrics for fans  
 - Built as an MVP with scope for analytics expansion  
 
-## 🛠️ Tech Stack
-Frontend: (add your framework – React / HTML-CSS-JS / etc.)  
-Backend: (if any)  
-Data Source: (API / dataset name)
+## 🛠 Tech Stack
+
+- AI-assisted development: Lovable  
+- Frontend: Generated responsive web interface  
+- Deployment: Lovable hosting  
+- Data handling: Structured F1 dataset integration
 
 ## 📸 Screenshots
 (Add 3–4 images of your UI here)
